@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.88931e8b.chunk.css",
+    "main.js": "/portfolio/static/js/main.d3110a08.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.d3110a08.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.44087e9b.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.44087e9b.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/portfolio/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.46034739.chunk.js": "/portfolio/static/js/2.46034739.chunk.js",
+    "static/js/2.46034739.chunk.js.map": "/portfolio/static/js/2.46034739.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.92623d7f64d9191a58a6f355af2ed9a1.js": "/portfolio/precache-manifest.92623d7f64d9191a58a6f355af2ed9a1.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/portfolio/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.88931e8b.chunk.css.map": "/portfolio/static/css/main.88931e8b.chunk.css.map",
+    "static/js/2.46034739.chunk.js.LICENSE.txt": "/portfolio/static/js/2.46034739.chunk.js.LICENSE.txt",
+    "static/media/KSC2019.png": "/portfolio/static/media/KSC2019.8454de7f.png",
+    "static/media/Knocap_web.png": "/portfolio/static/media/Knocap_web.562cdf72.png",
+    "static/media/index.css": "/portfolio/static/media/NotoSansKR-Thin.3c91862c.otf",
+    "static/media/Profile.png": "/portfolio/static/media/Profile.ceae9c71.png",
+    "static/media/WalWalTalk_facebookMsg.png": "/portfolio/static/media/WalWalTalk_facebookMsg.31d0922a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44087e9b.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.46034739.chunk.js",
+    "static/css/main.88931e8b.chunk.css",
+    "static/js/main.d3110a08.chunk.js"
+  ]
+}
